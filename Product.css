@@ -1,0 +1,25 @@
+.product span {
+    font-size: 100px;
+}
+
+.wrapper {
+    display: inline;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.wrapper button {
+    font-size: 20px;
+    background: none;
+    border: rgb(0, 0, 0) solid 1px;
+}
+
+.product > span{
+   display: inline;
+   background-color: blueviolet; 
+
+}
+.div{
+    font-size: 10px;
+    border-radius: 10px;
+}
